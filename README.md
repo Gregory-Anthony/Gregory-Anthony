@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gregory-Anthony
+- I’m interested in Data Science and currently studying an M.Sc. in Artificial Intelligence and Data Science at University of Hull
+- 🌱 I’m currently learning ML and DL with Python
+- 💞️ I’m looking to collaborate with fellow Data Science enthusiasts
+- 📫 Connect with me on https://www.linkedin.com/in/gregory-ugorji-690751178
